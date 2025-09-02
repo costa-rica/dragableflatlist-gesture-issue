@@ -29,3 +29,7 @@ Run the project with Expo:
 ```
 yarn start
 ```
+
+## Video of Crash
+
+[Video of crash](./docs/20250902crashRecreate.mp4)
