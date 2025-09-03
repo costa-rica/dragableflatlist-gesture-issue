@@ -1,4 +1,4 @@
-# App crashes when GestureHandler is triggered alongside DraggableFlatList
+# App crashes when GestureHandler is triggered alongside DraggableFlatList (Expo 53, RN 0.79.5)
 
 ## Description
 
@@ -42,10 +42,12 @@ Downgrade dependencies was the only way I could get the app to run.
 
 ## Video of crash
 
-<img src="https://1drv.ms/i/c/60df6d5feed7ac60/IQSkR-5tbPN-RLQ5VVSJUPmyAUGAmSOBNZTMNSNQuz44cYI?width=1024" width="1024" height="auto" />
+link to video:
+https://1drv.ms/v/c/60df6d5feed7ac60/EQJ3m-CrgNBCs0nGSIKaz5QBk44ZV0k0elZ0OfPGg97b5A?e=Swr3FO
 
 ## Crash report
 
+link to crash report:
 https://1drv.ms/t/c/60df6d5feed7ac60/Eemphyuq-8hGltN_hpNxC4IBBmaJZjpQRTZI-Hl0enRlzw?e=BzDmCW
 
 ## Environment
