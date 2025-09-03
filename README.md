@@ -32,4 +32,4 @@ yarn start
 
 ## Video of Crash
 
-[Video of crash](./docs/20250902crashRecreate.mp4)
+<img src="https://1drv.ms/i/c/60df6d5feed7ac60/IQSkR-5tbPN-RLQ5VVSJUPmyAUGAmSOBNZTMNSNQuz44cYI?width=1024" width="1024" height="auto" />
